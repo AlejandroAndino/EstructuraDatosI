@@ -17,3 +17,4 @@ def passwordGenerator():
         s += random.choice(caracteres)
     #Imprimir contenido de la lista    
     print (s)
+
