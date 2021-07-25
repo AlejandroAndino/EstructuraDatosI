@@ -46,3 +46,15 @@ Utilización de comando print para dar la salida por pantalla del nuevo password
 --------------------------
     print (s)
 --------------------------
+
+** Main
+Se  crea el método main donde se ejecutará la función que genera las contraseñas
+
+--------------------------------------------
+def main():
+    #Llamar función que genera el password
+    passwordGenerator()
+
+if __name__ == '__main__':
+    main()
+--------------------------------------------
