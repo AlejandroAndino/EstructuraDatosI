@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Número de Cuenta: 61611100
 Alumno: Oscar Alejandro Andnino Rodríguez
 Nombre del proyecto: passwordGenerator
@@ -46,3 +47,16 @@ Utilización de comando print para dar la salida por pantalla del nuevo password
 --------------------------
     print (s)
 --------------------------
+
+** Main
+Se  crea el método main donde se ejecutará la función que genera las contraseñas
+
+--------------------------------------------
+def main():
+    #Llamar función que genera el password
+    passwordGenerator()
+
+if __name__ == '__main__':
+    main()
+--------------------------------------------
+>>>>>>> 3d23f2455935e9933f825d833b3c6619c5446444
